@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Book
+  - BookSphere
+  - Sword
+  - GrindingWheel Collider
+  - Cork
+  - Letter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Fluids
+  - Ground
+  - Grab Object
+  - Passthrough
+  - Outlined Object
+  - Outlined Letter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

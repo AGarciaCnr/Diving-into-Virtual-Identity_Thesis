@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1ac95d9d8f1414daa1c402d82dca37, type: 3}
+  m_Name: GreenParticle
+  m_EditorClassIdentifier: 
+  particlePrefab: {fileID: 936868149857717834, guid: 4fa70d38d8a669f4288e33338c1b5e28,
+    type: 3}
+  particleDiameter: 0.1
