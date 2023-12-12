@@ -8,6 +8,8 @@ To achieve this goal, we have carried out the study of different previous studie
 
 More than 40 subjects have been tested. The results obtained provide a first insight into the initial hypothesis and highlight the importance of narrative in creating a more immersive and emotional experience for virtual reality users. In future work, it will be necessary to increase the number of subjects and evaluate whether this difference is statistically significant between the two proposals, in order to conclude with solid evidence the influence of narrative in the identification of the player with their avatar.
 
+https://github.com/AGarciaCnr/Diving-into-Virtual-Identity_Thesis/assets/60649612/4c22328d-8d80-4dfd-9378-2fbe5ace5de7
+
 ![image](https://github.com/AGarciaCnr/Diving-into-Virtual-Identity_Thesis/assets/60649612/017173d7-70b4-4e40-b9b1-5805468f1a63)
 
 ![image](https://github.com/AGarciaCnr/Diving-into-Virtual-Identity_Thesis/assets/60649612/8a123f00-73bc-4af9-9732-be7138c65323)
